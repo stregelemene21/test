@@ -8,4 +8,4 @@ while True:
         break
     else :
         listResult.append(s[0])
-print(*listResult)
+print(*listResult) 
