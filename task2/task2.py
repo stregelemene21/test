@@ -21,5 +21,5 @@ for i in p:
     y = float(i[2])
     PointInCircle(xc, yc, r, x, y)
 center.close()
-points.close()  
+points.close() 
     
