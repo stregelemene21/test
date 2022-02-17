@@ -18,5 +18,6 @@ average = summ/count
 for i in s:
     total += abs(int(i) - int(average))
 
-print(total)    
+print(total)   
+file.close()
     
